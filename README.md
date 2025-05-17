@@ -84,5 +84,9 @@ MIT License. Feel free to use, modify, and distribute.
 
 ## 👤 Author
 
-Made by Mayank Sharma | 2025 | Chandigarh University
+**Mayank Sharma**  
+linkedin.com/in/mayank-sharma-359807230/
+📧 MAYANKARYAN309@GMAIL.COM
+
+
 
