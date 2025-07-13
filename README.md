@@ -1,7 +1,7 @@
 
 # Deep Q-Learning Based Traffic Signal Control System
 
-This project implements a Deep Q-Learning (DQN) agent to control traffic lights in a simulated environment using **SUMO** (Simulation of Urban MObility). The goal is to optimize traffic flow by learning efficient traffic light control policies.
+This project implements a Deep Q-Learning (DQN) agent to control traffic lights in a simulated environment using **SUMO** (Simulation of Urban Mobility). The goal is to optimize traffic flow by learning efficient traffic light control policies.
 
 ---
 
